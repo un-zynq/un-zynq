@@ -31,3 +31,6 @@ Improve, fix, or expand the system.
 ## Purpose
 
 Make game creation faster, cleaner, and shared.
+
+## Note from Zynq
+"Hey, sorry this project is paused, parents hate it, are pulling me away from my business. Please take care, love y'all!" - Zynq
